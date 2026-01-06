@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "できっこないを　やらなくちゃ",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-01-06T09:38:24.650427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_できっこないを_やらなくちゃ_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "できっこないを　やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/02_できっこないを_やらなくちゃ_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/03_できっこないを_やらなくちゃ_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "できっこないを やらなくちゃ (原曲歌手: サンボマスター)",
+      "artist": "歌っちゃ王",
+      "has_synced": true,
+      "path": "select/04_できっこないを_やらなくちゃ_(原曲歌手__サンボマスター)_歌っちゃ王.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/05_できっこないを_やらなくちゃ_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "できっこないを　やらなくちゃ",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/06_できっこないを_やらなくちゃ_Sambomaster.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "できっこないを やらなくちゃ (あれから10周年オーディションライブ完全収録)",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/07_できっこないを_やらなくちゃ_(あれから10周年オーディションライブ完全収録)_Sambomaster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_07_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_08_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_09_できっこないを_やらなくちゃ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_10_できっこないを_やらなくちゃ_サンボマスター.txt"
+    }
+  ]
+}
